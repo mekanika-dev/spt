@@ -1,0 +1,43 @@
+level,component_reference,component_name,component_quantity,parent_bom_reference,parent_bom_name,has_child_bom
+0,M01554,SPT-S [M0 use],1.00,,,True
+1,M01552,SPT - A - Structure Box (Size: S),1.00,M01554,SPT-S [M0 use],True
+2,M00385,PRO-S/M – Cable Cover for I-type 6 Profile 800mm,1.00,M01552,SPT - A - Structure Box (Size: S),True
+3,M00383,Cable Cover for I-type 6 Profile (2m),0.40,M00385,PRO-S/M – Cable Cover for I-type 6 Profile 800mm,False
+2,M00956,Cable Trunking D31mm L500mm,2.00,M01552,SPT - A - Structure Box (Size: S),False
+2,M00726,"Power Distribution Unit 4-Way, 16A, 4000W",1.00,M01552,SPT - A - Structure Box (Size: S),False
+2,M01541,Alu profile I-6030 (476mm),2.00,M01552,SPT - A - Structure Box (Size: S),False
+2,M01542,Alu profile I-6030 (710mm),3.00,M01552,SPT - A - Structure Box (Size: S),False
+2,M00057,Alu Profile V-6060 (830 mm) [4x M6 threads on BOTH sides],4.00,M01552,SPT - A - Structure Box (Size: S),False
+2,M00281,CNC Fab - Steel Parts - Gusset plate,8.00,M01552,SPT - A - Structure Box (Size: S),False
+2,M01562,SPT - A1 - Screws & Brackets,1.00,M01552,SPT - A - Structure Box (Size: S),True
+3,M00062,Angle Bracket 30 B-Type Rainure 6,24.00,M01562,SPT - A1 - Screws & Brackets,False
+3,M00063,Angle Bracket 60 B-Type Groove 8,4.00,M01562,SPT - A1 - Screws & Brackets,False
+3,M00485,End Connection Plate 60x60 for Foot M12,4.00,M01562,SPT - A1 - Screws & Brackets,False
+3,M00524,Foot D80 M12x50 + Jam nut M12 + Anti Slip,4.00,M01562,SPT - A1 - Screws & Brackets,False
+3,M01545,Cable Management Bag,1.00,M01562,SPT - A1 - Screws & Brackets,True
+4,M01551,SPT - Cable Holder 3d Print,18.00,M01545,Cable Management Bag,False
+4,M00389,Cable Tie 100mm x 2.5 mm,28.00,M01545,Cable Management Bag,False
+3,M01550,Cable Trunking Screws Bag,1.00,M01562,SPT - A1 - Screws & Brackets,True
+4,M00423,DIN9021 Washer M4x12,6.00,M01550,Cable Trunking Screws Bag,False
+4,M01697,DIN912 M4x12 Black screw,6.00,M01550,Cable Trunking Screws Bag,False
+4,M00554,I-Type Sliding Nut M4,6.00,M01550,Cable Trunking Screws Bag,False
+3,M01549,CUB Brackets Bag,1.00,M01562,SPT - A1 - Screws & Brackets,True
+4,M01379,CU-VFD-Mounting plate 3mm,4.00,M01549,CUB Brackets Bag,False
+4,M00435,DIN912 M5x12 Black screw,10.00,M01549,CUB Brackets Bag,False
+4,M00746,Rubber foot M4,2.00,M01549,CUB Brackets Bag,False
+4,M00555,I-Type Sliding Nut M5,10.00,M01549,CUB Brackets Bag,False
+3,M01544,SPT - DIN9021 Washer M6 Bag,1.00,M01562,SPT - A1 - Screws & Brackets,True
+4,M01694,DIN9021 Washer M6x18,68.00,M01544,SPT - DIN9021 Washer M6 Bag,False
+3,M01547,SPT - DIN912 Screw M6x16 Bag,1.00,M01562,SPT - A1 - Screws & Brackets,True
+4,M01704,DIN912 M6x16 Black screw,100.00,M01547,SPT - DIN912 Screw M6x16 Bag,False
+3,M01546,SPT - Evo Cable Chain Bag,1.00,M01562,SPT - A1 - Screws & Brackets,True
+4,M01645,SPT-EVO-Steel Parts - Cable Chain Support Y1 Right,1.00,M01546,SPT - Evo Cable Chain Bag,False
+4,M00424,DIN9021 Washer M5x15,2.00,M01546,SPT - Evo Cable Chain Bag,False
+4,M01642,ISO7380 M5x35 Black Screw,2.00,M01546,SPT - Evo Cable Chain Bag,False
+4,M00632,Lock Nut DIN985 M5,2.00,M01546,SPT - Evo Cable Chain Bag,False
+4,M00555,I-Type Sliding Nut M5,2.00,M01546,SPT - Evo Cable Chain Bag,False
+4,M01641,Spacer-M5x25,2.00,M01546,SPT - Evo Cable Chain Bag,False
+4,M00798,Spacer M5x6mm,2.00,M01546,SPT - Evo Cable Chain Bag,False
+4,M01731,DIN912 M5x20 Black screw,2.00,M01546,SPT - Evo Cable Chain Bag,False
+3,M01548,SPT - Sliding Nut M6 Bag,1.00,M01562,SPT - A1 - Screws & Brackets,True
+4,M00556,I-Type Sliding Nut M6,84.00,M01548,SPT - Sliding Nut M6 Bag,False
